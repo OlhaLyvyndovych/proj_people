@@ -1,0 +1,14 @@
+{
+  "name": "people",
+  "version": "0.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "pug": "^2.0.3"
+  }
+}
